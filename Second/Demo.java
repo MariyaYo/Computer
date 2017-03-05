@@ -10,6 +10,7 @@ public class Demo {
 		workerPesho.setHoursLeft(8);
 		workerSasho.setHoursLeft(1);
 		workerSteve.setHoursLeft(8);
+		System.out.println("Hello");
 		
 		Task ImportPapers = new Task("Import papers", 2);
 		Task ImportPapers2 = new Task("Import papers2", 2);
